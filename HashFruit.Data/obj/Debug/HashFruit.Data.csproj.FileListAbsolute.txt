@@ -1,0 +1,5 @@
+F:\VS Project\Github\HashFruit\HashFruit.Data\bin\Debug\HashFruit.Data.dll
+F:\VS Project\Github\HashFruit\HashFruit.Data\bin\Debug\HashFruit.Data.pdb
+F:\VS Project\Github\HashFruit\HashFruit.Data\obj\Debug\HashFruit.Data.csprojResolveAssemblyReference.cache
+F:\VS Project\Github\HashFruit\HashFruit.Data\obj\Debug\HashFruit.Data.dll
+F:\VS Project\Github\HashFruit\HashFruit.Data\obj\Debug\HashFruit.Data.pdb

@@ -1,0 +1,4 @@
+F:\VS Project\Github\HashFruit\HashFruit.Bussiness\bin\Debug\HashFruit.Bussiness.dll
+F:\VS Project\Github\HashFruit\HashFruit.Bussiness\bin\Debug\HashFruit.Bussiness.pdb
+F:\VS Project\Github\HashFruit\HashFruit.Bussiness\obj\Debug\HashFruit.Bussiness.dll
+F:\VS Project\Github\HashFruit\HashFruit.Bussiness\obj\Debug\HashFruit.Bussiness.pdb

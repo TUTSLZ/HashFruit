@@ -1,0 +1,4 @@
+F:\VS Project\Github\HashFruit\HashFruit.Common\bin\Debug\HashFruit.Common.dll
+F:\VS Project\Github\HashFruit\HashFruit.Common\bin\Debug\HashFruit.Common.pdb
+F:\VS Project\Github\HashFruit\HashFruit.Common\obj\Debug\HashFruit.Common.dll
+F:\VS Project\Github\HashFruit\HashFruit.Common\obj\Debug\HashFruit.Common.pdb
